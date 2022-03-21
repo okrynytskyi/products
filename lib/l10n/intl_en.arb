@@ -1,0 +1,9 @@
+{
+    "appTitle": "Products",
+    "from": "FROM",
+    "price": "${value}",
+    "rating": "4.5",
+    "products": "Products",
+    "itemDetails": "Item Details",
+    "settings": "Settings"
+}

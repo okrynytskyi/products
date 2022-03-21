@@ -1,0 +1,7 @@
+{
+  "appTitle": "products",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "from": "FROM"
+}
